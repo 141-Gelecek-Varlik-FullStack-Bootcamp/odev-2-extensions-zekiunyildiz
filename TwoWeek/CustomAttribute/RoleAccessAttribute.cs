@@ -1,4 +1,4 @@
-using Bootcamp.Attributes_Reflection.Enums;
+using TwoWeek.Enums;
 using System;
 
 namespace TwoWeek.CustomAttribute
